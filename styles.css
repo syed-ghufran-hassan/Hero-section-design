@@ -21,7 +21,7 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-    color: #fff;
+    color: #000; /* Changed to black */
 }
 
 .hero-content {
