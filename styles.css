@@ -14,14 +14,14 @@ body {
 /* Hero Section */
 .hero {
     height: 100vh;
-    background-image: url('https://unsplash.com/photos/a-close-up-of-a-purple-object-on-a-black-background-2AYgh-0vrbo');
+    background: linear-gradient(90deg, #007BFF 50%, #FF00FF 50%); /* Blue and Magenta */
     background-size: cover;
     background-position: center;
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
-    color: #000; /* Changed to black */
+    color: #000; /* Black text */
 }
 
 .hero-content {
